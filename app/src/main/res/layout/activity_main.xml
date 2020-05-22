@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <include
+        layout="@layout/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/readQuranBtn"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="215dp"
+        android:background="@color/submitBtnColor"
+        android:text="Read Quran"
+        android:textColor="@color/color2"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="249dp" />
+
+    <Button
+        android:id="@+id/participateBtn"
+        android:layout_width="177dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="420dp"
+        android:layout_marginEnd="116dp"
+        android:background="@color/submitBtnColor"
+        android:text="Participate in Khatam"
+        android:textColor="@color/color2"
+        tools:layout_editor_absoluteX="122dp"
+        tools:layout_editor_absoluteY="490dp" />
+
+</RelativeLayout>

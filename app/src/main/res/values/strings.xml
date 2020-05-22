@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quran App</string>
+
+    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">Full Name</string>
+    <string name="prompt_country">Country</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="Not_Registered">Not Registered? Sign up here.</string>
+    <string name="Already_Registered">Already Registered? Login here.</string>
+    <string name="name_of_person">Name of Person</string>
+    <string name="khtamah_form">Khtamah Form</string>
+    <string name="submit_btn">Submit</string>
+    <string name="msg_subscribed">Notifi Successful</string>
+    <string name="msg_subscribe_failed">Notifi Failed</string>
+</resources>

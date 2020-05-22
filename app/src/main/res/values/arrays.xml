@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="corpus_word_type">
+        <item>Accusative particle</item>
+        <item>Adjective</item>
+        <item>Amendment particle</item>
+        <item>Answer particle</item>
+        <item>Aversion Particle</item>
+        <item>Particle of cause</item>
+        <item>Particle of certainty</item>
+        <item>Circumstance particle</item>
+        <item>Comitative particle</item>
+        <item>Conditional particle</item>
+        <item>Coordinating conjunction</item>
+        <item>Demonstrative Pronoun</item>
+        <item>Determiner</item>
+        <item>Emphatic iaam prefix</item>
+        <item>Equalization particle</item>
+        <item>Exhortation particle</item>
+        <item>Explanation particle</item>
+        <item>Exceptive particle</item>
+        <item>Future particle</item>
+        <item>Imperative particle</item>
+        <item>imperative iaam prefix</item>
+        <item>Inceptive particle</item>
+        <item>Quranic initial</item>
+        <item>Particle of interpretation</item>
+        <item>Interrogative particle</item>
+        <item>Locative adverb</item>
+        <item>Noun</item>
+        <item>Negative pronoun</item>
+        <item>Preposition</item>
+        <item>Proper noun</item>
+        <item>Preventive particle</item>
+        <item>Prohibition particle</item>
+        <item>Personal pronoun</item>
+        <item>Purpose iaam prefix</item>
+        <item>Relative pronoun</item>
+        <item>Resumption particle</item>
+        <item>Restriction</item>
+        <item>Retraction particle</item>
+        <item>Result particle</item>
+        <item>Subordinating conjunction</item>
+        <item>Supplemental particle</item>
+        <item>Surprise particle</item>
+        <item>Time adverb</item>
+        <item>Verb</item>
+        <item>Vocative particle</item>
+    </string-array>
+
+</resources>
