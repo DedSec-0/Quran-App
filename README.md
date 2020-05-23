@@ -11,5 +11,7 @@ This is a qura'an App developed for android users where everyone can read qur'an
 7. In next reading(Khatema) all those subscribers are out of the khatem, again they can participate.
 
 ## Screenshots
-![Screenshot 1](/Screenshot1.png)
-![Screenshot 2](/Screenshot2.png)
+<img height="400px" src="Screenshot1.png"
+ alt="Screenshot"/>
+ <img height="400px" src="Screenshot2.png"
+ alt="Screenshot"/>
