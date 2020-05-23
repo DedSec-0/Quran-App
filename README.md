@@ -1,4 +1,5 @@
 # Quran-App
+This is a qura'an App developed for android users where everyone can read qur'an and participate or organize khatemah's for anyone.
 
 ## Instructions
 1. Start the app 
